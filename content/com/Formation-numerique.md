@@ -4,12 +4,12 @@ tags = ["formation"]
 +++
 
 ![Affiche](/img/autodef2.png)
-L'atelier numérique consiste à installer ensemble, sur le matériel de chacun de ses membres, de quoi permettre son utilisation sans la crainte d'être surveillé. Trois activités y sont proposées, selon vos besoins. Vous devrez y ramener votre matériel pour pouvoir suivre l'une des trois.
+
+La formation numérique consiste à installer ensemble, sur le matériel de chacun.e de ses membres, de quoi permettre son utilisation sans la crainte d'être surveillé.e. Trois activités y sont proposées, selon vos besoins. Vous devrez y ramener votre matériel pour pouvoir suivre l'une des trois.
 
 La première activité (Tails) est la seule qui ne modifie pas de manière permanente votre matériel, et qui devrait être maîtrisée par tout le monde. Les deux autres activités installent de nouveaux systèmes d'exploitations, respectivement sur PC et smartphone, et s'adresse plutôt à celleux qui ont déjà fait la première.
-Le point de rendez-vous est le hall de l'amphi B2 de l'université paris 8, métro saint denis, à 18h.
 
-<--Nous mettrons à disposition, dans la mesure du possible, quelques clés usb ainsi que des cartes SIM au prix de 4€.-->
+Le point de rendez-vous est le hall de l'amphi B2 de l'université paris 8, Métro 13 saint denis Université, à 18h.
 
 - ### Groupe 1 : Utilisation de Tails (conseillée pour les débutants)
    - Une clé usb de 8go ou plus
@@ -21,7 +21,7 @@ Le point de rendez-vous est le hall de l'amphi B2 de l'université paris 8, mét
    - Une clé usb de 8go ou plus
    - Un ordinateur portable, et son chargeur
 
-- ### Groupe 3 : Installations téléphone
+- ### Groupe 3 : Installations smartphone
     - Un téléphone android qui remplit toutes les conditions suivantes  :
       1. Le modèle du téléphone doit être dans au moins une des deux listes suivantes.
          - https://wiki.lineageos.org/devices/
