@@ -16,12 +16,31 @@
     </item>
     
     <item>
+      <title>Brochures</title>
+      <link>/com/brochures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/com/brochures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cupper</title>
       <link>/print-version/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/print-version/</guid>
       <description>You don&amp;rsquo;t want to edit this file :-)</description>
+    </item>
+    
+    <item>
+      <title>Formation numérique</title>
+      <link>/com/formation-numerique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/com/formation-numerique/</guid>
+      <description>L&amp;rsquo;atelier numérique consiste à installer ensemble, sur le matériel de chacun de ses membres, de quoi permettre son utilisation sans la crainte d&amp;rsquo;être surveillé. Trois activités y sont proposées, selon vos besoins. Vous devrez y ramener votre matériel pour pouvoir suivre l&amp;rsquo;une des trois.
+La première activité (Tails) est la seule qui ne modifie pas de manière permanente votre matériel, ainsi que la plus importante, que tout le monde devrait être capable de faire.</description>
     </item>
     
   </channel>

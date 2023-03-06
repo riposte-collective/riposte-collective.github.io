@@ -4,6 +4,10 @@
   <url>
     <loc>/com/affiches/</loc>
   </url><url>
+    <loc>/tags/brochure/</loc>
+  </url><url>
+    <loc>/com/brochures/</loc>
+  </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/tags/communication/</loc>
@@ -11,6 +15,10 @@
     <loc>/com/</loc>
   </url><url>
     <loc>/print-version/</loc>
+  </url><url>
+    <loc>/tags/formation/</loc>
+  </url><url>
+    <loc>/com/formation-numerique/</loc>
   </url><url>
     <loc>/tags/images/</loc>
   </url><url>
