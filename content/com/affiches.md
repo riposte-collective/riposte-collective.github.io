@@ -9,3 +9,4 @@ tags = ["communication", "images"]
 ![Regarde](/img/regarde.png)
 ![TROU](/img/TROU.png)
 ![Autodéfense Numérique](/img/autodef.png)
+![Autodéfense Numérique 2](/img/autodef2.png)
