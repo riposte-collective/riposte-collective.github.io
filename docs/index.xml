@@ -16,16 +16,6 @@
     </item>
     
     <item>
-      <title>Audiences du 01/07</title>
-      <link>/com/tribunal-01-07-23/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/com/tribunal-01-07-23/</guid>
-      <description>Récit des comparutions immédates au tribunal de bobigny samedi 01/07 La police tue, les tribunaux accablent et tout est chaos. Mardi 27 juin la police assassine Nahel. Nanterre s&amp;rsquo;embrase, la révolte grandit en banlieue parisienne puis dans tout le pays. D&amp;rsquo;abord les condés, ensuite les vitrines, les marchandises puis tous les batiments du pouvoir et de l&amp;rsquo;oppression et enfin les lieux d&amp;rsquo;habitation de ceux qui nous dirigent.
-En 3 jours, l&amp;rsquo;attaque au porte-monnaie de l&amp;rsquo;Etat que constituent les dégradations et les autoréductions est plus importante que celle du mois d&amp;rsquo;émeute de 2005 et plus importante que celle des nombreux mois des Gilets Jaunes.</description>
-    </item>
-    
-    <item>
       <title>Brochures</title>
       <link>/com/brochures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -51,6 +41,15 @@ En 3 jours, l&amp;rsquo;attaque au porte-monnaie de l&amp;rsquo;Etat que constit
       <guid>/com/formation-numerique/</guid>
       <description>La formation numérique consiste à installer ensemble, sur le matériel de chacun.e de ses membres, de quoi permettre son utilisation sans la crainte d&amp;rsquo;être surveillé.e. Trois activités y sont proposées, selon vos besoins. Vous devrez y ramener votre matériel pour pouvoir suivre l&amp;rsquo;une des trois.
 La première activité (Tails) est la seule qui ne modifie pas de manière permanente votre matériel, et qui devrait être maîtrisée par tout le monde. Les deux autres activités installent de nouveaux systèmes d&amp;rsquo;exploitations, respectivement sur PC et smartphone, et s&amp;rsquo;adresse plutôt à celleux qui ont déjà fait la première.</description>
+    </item>
+    
+    <item>
+      <title>Tout est chaos</title>
+      <link>/com/tribunal-01-07-23/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/com/tribunal-01-07-23/</guid>
+      <description>La police tue, les tribunaux accablent et tout est chaos. RÉCIT DES COMPARUTIONS IMMÉDIATES DU TRIBUNAL DE BOBIGNY, SAMEDI 01/07 Mardi 27 juin la police assassine Nahel, 17 ans. Suite à ce meurtre raciste, dernier exemple médiatisé des violences policières quotidiennes dans les quartiers populaires, Nanterre s&amp;rsquo;embrase, la révolte grandit en banlieue parisienne, les émeutes se propagent dans tout le pays. D&amp;rsquo;abord les condés, ensuite les vitrines, les marchandises puis tous les batiments du pouvoir et de l&amp;rsquo;oppression et enfin les lieux d&amp;rsquo;habitation de ceux qui nous dirigent.</description>
     </item>
     
   </channel>
