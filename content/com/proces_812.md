@@ -1,5 +1,5 @@
 +++
-title = "La fabrique du terrorisme - Proces 8/12"
+title = "La fabrique du terrorisme"
 tags = ["blog"]
 +++
 
