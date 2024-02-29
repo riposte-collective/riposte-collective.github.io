@@ -3,11 +3,7 @@ title = "Retour sur les défenses du mouvement des retraites"
 tags = ["blog"]
 +++
 
-
-# Retour sur les défenses du mouvement des retraites
-
-
-Un mouvement social se traduit, comme on le sait, entre autres par de la répression et des poursuites judiciaires. Pour les autorités, chaque camarade inculpée est une occasion de comprendre le mouvement social et de générer de la jurisprudence pour mieux nous réprimer. Le travail coordonné de la police et de la justice cherche à nous isoler. Nous pensons donc qu'**en plus d'intervenir dans la rue, nous devons répondre collectivement dans les tribunaux**, en organisant le suivi juridique de nos camarades. 
+Un mouvement social se traduit, comme on le sait, entre autres par de la répression et des poursuites judiciaires. Pour les autorités, chaque camarade inculpée est une occasion de comprendre le mouvement social et de générer de la jurisprudence pour mieux nous réprimer. Le travail coordonné de la police et de la justice cherche à nous isoler. Nous pensons donc qu'**en plus d'intervenir dans la rue, nous devons répondre collectivement dans les tribunaux**, en organisant le suivi juridique de nos camarades.
 
 
 
@@ -23,15 +19,11 @@ Pour réfléchir à une défense sur la "forme", il est nécessaire de vulgarise
 
 
 
-À la suite du mouvement social contre la réforme des retraites de 2023, nous avons participé à construire la défense juridique dans quatre affaires. Sept camarades ont été totalement relaxées, un huitième a été relaxé du chef d'accusation le plus grave retenu contre lui. Les différentes défenses que nous décrivons dans ce texte ont été victorieuses du fait d'un travail collectif et méticuleux. Ainsi, nous insistons sur l'importance des lectures et réflexions collectives autour des dossiers, de la **vulgarisation collective des textes de loi**, et de la préparation des accusées à l'audience : échange, accompagnement par des camarades aux rendez-vous avec l'avocat. Ce processus permet de se saisir collectivement du droit, et permet à l'accusée de **reprendre confiance**, d'être à l'aise, **pour ne pas se faire humilier ni marcher dessus par la justice **moralisatrice et normalisatrice.
+À la suite du mouvement social contre la réforme des retraites de 2023, nous avons participé à construire la défense juridique dans quatre affaires. Sept camarades ont été totalement relaxées, un huitième a été relaxé du chef d'accusation le plus grave retenu contre lui. Les différentes défenses que nous décrivons dans ce texte ont été victorieuses du fait d'un travail collectif et méticuleux. Ainsi, nous insistons sur l'importance des lectures et réflexions collectives autour des dossiers, de la **vulgarisation collective des textes de loi**, et de la préparation des accusées à l'audience : échange, accompagnement par des camarades aux rendez-vous avec l'avocat. Ce processus permet de se saisir collectivement du droit, et permet à l'accusée de **reprendre confiance**, d'être à l'aise, **pour ne pas se faire humilier ni marcher dessus par la justice** moralisatrice et normalisatrice.
 
 
 
 Dans ce texte, nous revenons sur ces quatre affaires et expliquons nos positionnements politiques pour une défense collective. Les récits ne sont pas des récits exhaustifs des plaidoiries, ils se concentrent sur les éléments, de la forme et du fond, qui ont amené à la relaxe. 
-
-
-
-
 
 **4 affaires, 7 relaxes**
 
@@ -57,7 +49,7 @@ Concernant le port d'arme, la photo jointe au dossier était celle d'un opinel 1
 
 
 
-Malgré la pression que les keufs peuvent mettre, **ne rien déclarer en garde à vue** est primordial afin que le dossier soit le plus vide possible. Dans la plupart des dossiers, les keufs n'ont pas de preuve tangible (même s'ils disent l'inverse) et la fonction de la GAV est d'en produire : par des déclarations voire des aveux. **On ne se défend pas en GAV, on se défend au tribunal. **Après avoir eu le temps, à tête reposée, de lire le dossier et réfléchir à la façon dont on veut se défendre. 
+Malgré la pression que les keufs peuvent mettre, **ne rien déclarer en garde à vue** est primordial afin que le dossier soit le plus vide possible. Dans la plupart des dossiers, les keufs n'ont pas de preuve tangible (même s'ils disent l'inverse) et la fonction de la GAV est d'en produire : par des déclarations voire des aveux. **On ne se défend pas en GAV, on se défend au tribunal.**Après avoir eu le temps, à tête reposée, de lire le dossier et réfléchir à la façon dont on veut se défendre. 
 
 
 
@@ -127,7 +119,7 @@ Après le 49.3, dans un contexte de manifs sauvages nocturnes à Paris, 5 camara
 
 
 
-Ces deux poignées, nommées "barres" de fer sont jointes au dossier sans être dans la fouille d'une personne précise. Hormis cet élément matériel fragile, le dossier sera rempli par les réponses données lors des différentes auditions et par les informations présentes dans leur téléphone. Pour éviter ce genre de problème, nous recommandons de** ne pas prendre son téléphone** en action, ou le cas échéant, de **refuser de donner son code** de téléphone. 
+Ces deux poignées, nommées "barres" de fer sont jointes au dossier sans être dans la fouille d'une personne précise. Hormis cet élément matériel fragile, le dossier sera rempli par les réponses données lors des différentes auditions et par les informations présentes dans leur téléphone. Pour éviter ce genre de problème, nous recommandons de **ne pas prendre son téléphone** en action, ou le cas échéant, de **refuser de donner son code** de téléphone. 
 
 
 
@@ -135,7 +127,7 @@ Les 5 sont accusées de groupement en vue de commettre des violences ou dégrada
 
 
 
-Une camarade refuse de donner son ADN. Un autre refuse de donner son code de téléphone. Lui aura gardé le silence durant toute la durée de sa gav, y compris quand on lui demande son code de téléphone. **Tenir le "rien à déclarer" lorsque ces questions sont posées peut permettre, au procès, de jouer sur le flou du refus et d'adapter la défense. **
+Une camarade refuse de donner son ADN. Un autre refuse de donner son code de téléphone. Lui aura gardé le silence durant toute la durée de sa gav, y compris quand on lui demande son code de téléphone. **Tenir le "rien à déclarer" lorsque ces questions sont posées peut permettre, au procès, de jouer sur le flou du refus et d'adapter la défense.**
 
 
 
@@ -165,7 +157,7 @@ Nous pensons qu'une défense collective, profitable au mouvement et à tous les 
 
 
 
-Cela implique une **stratégie **dite **« *de rupture* » **avec le tribunal. Par cela, nous entendons le fait de refuser de répondre aux attentes de la justice qui nous voudrait dociles : qui attend de nous que l'on se plie à ses règles morales, que l'on s'excuse de choses qu’on aurait faites ou non. C'est adopter cette posture, qui dépasse le débat moral et la justification personnel permet d'amener amène la lutte sur le terrain du droit et vise à reprendre l'offensive.
+Cela implique une **stratégie** dite **« *de rupture* »**avec le tribunal. Par cela, nous entendons le fait de refuser de répondre aux attentes de la justice qui nous voudrait dociles : qui attend de nous que l'on se plie à ses règles morales, que l'on s'excuse de choses qu’on aurait faites ou non. C'est adopter cette posture, qui dépasse le débat moral et la justification personnel permet d'amener amène la lutte sur le terrain du droit et vise à reprendre l'offensive.
 
 
 
@@ -177,15 +169,15 @@ Toutefois, nous ne prônons pas une offensive frontale, claire et énoncée. Nou
 
 
 
-Le refus de la *dissociation* en découle. La dissociation, c'est le principe de dissocier les "bonnes" des "mauvaises" manifestantes, catégories créées par les keufs et les juges, et de se placer du "bon" côté. Dire qu’on est une bonne manifestante, c’est, de fait, discréditer des pratiques et insinuer qu’il y en a des mauvaises. La dissociation va toujours dans le sens de la répression et joue contre notre camp. **Toutes les manières de manifester et de se révolter existent et peuvent être pertinentes. Si elles peuvent être discutées, nous pensons que cela doit se faire entre camarades et certainement pas ~~être ~~auprès de nos ennemis. **
+Le refus de la *dissociation* en découle. La dissociation, c'est le principe de dissocier les "bonnes" des "mauvaises" manifestantes, catégories créées par les keufs et les juges, et de se placer du "bon" côté. Dire qu’on est une bonne manifestante, c’est, de fait, discréditer des pratiques et insinuer qu’il y en a des mauvaises. La dissociation va toujours dans le sens de la répression et joue contre notre camp. **Toutes les manières de manifester et de se révolter existent et peuvent être pertinentes. Si elles peuvent être discutées, nous pensons que cela doit se faire entre camarades et certainement pas auprès de nos ennemis.**
 
 
 
-**La justice cherche** souvent davantage **à punir des individus et leurs opinions** que des faits. Elle cherche à adapter,** individualiser la peine**. Matériellement, cela se traduit par le fait que les personnes qui ne répondent pas aux attentes de l'ordre établi (avoir un travail, une famille, un logement, une conduite "exemplaire") se retrouvent *de facto* en position défavorable face à la justice et écopent de peines plus lourdes. 
+**La justice cherche** souvent davantage **à punir des individus et leurs opinions** que des faits. Elle cherche à adapter,**individualiser la peine**. Matériellement, cela se traduit par le fait que les personnes qui ne répondent pas aux attentes de l'ordre établi (avoir un travail, une famille, un logement, une conduite "exemplaire") se retrouvent *de facto* en position défavorable face à la justice et écopent de peines plus lourdes. 
 
 
 
-**Refuser la *défense de profil, ***c'est refuser cette individualisation. C'est d’abord, quand on est déférée (quand on va au tribunal après la GAV) **refuser de répondre à l'enquête sociale**. Cette étape est vicieuse car l'enquêteur social est présenté comme une sorte de psy sympa, à qui on a envie de parler, mais c'est un keuf, il ne faut rien lui dire. C’est ensuite refuser, lors du procès, de répondre aux questions sur sa personnalité. **C’est affirmer**, verbalement,** qu'on ne souhaite être jugée que sur les faits** dont on est accusée. Cela permet de niveler les différences de jugement, c'est une façon concrète d'être solidaire des marginaux en tout genre. Mais c’est aussi **refuser de laisser les juges et les procs s'immiscer dans notre vie** **privée**, juger notre intimité. **Nous ne leur devons rien.**
+**Refuser la *défense de profil,*** c'est refuser cette individualisation. C'est d’abord, quand on est déférée (quand on va au tribunal après la GAV) **refuser de répondre à l'enquête sociale**. Cette étape est vicieuse car l'enquêteur social est présenté comme une sorte de psy sympa, à qui on a envie de parler, mais c'est un keuf, il ne faut rien lui dire. C’est ensuite refuser, lors du procès, de répondre aux questions sur sa personnalité. **C’est affirmer**, verbalement,**qu'on ne souhaite être jugée que sur les faits** dont on est accusée. Cela permet de niveler les différences de jugement, c'est une façon concrète d'être solidaire des marginaux en tout genre. Mais c’est aussi **refuser de laisser les juges et les procs s'immiscer dans notre vie** **privée**, juger notre intimité. **Nous ne leur devons rien.**
 
 
 
