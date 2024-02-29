@@ -149,7 +149,7 @@ Tous sont relaxés !
 
 
 
-## **Principes et positionnements politiques pour une défense collective**
+## Principes et positionnements politiques pour une défense collective
 
 
 
