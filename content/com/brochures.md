@@ -3,6 +3,7 @@ title = "Brochures"
 tags = ["brochure", "communication", "images"]
 +++
 
+[![Brochure Juridique](/img/quefaire.png)](/f/quefairepage-09_25.pdf)
 [![Brochure Juridique](/img/brochure-juridique.png)](/f/brochure_v1.pdf)
 [![Brochure Majeurs/Mineurs](/img/tract_mineurs_v1.png)](/f/mineur.pdf)
 [![Brochure Matos](/img/tract_matos.jpg)](/f/matos.pdf)
